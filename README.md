@@ -2,7 +2,8 @@
 
 # Instructions on how to use:
 
-1. At the top right, click MoreMore.
+0. Open the website
+1. At the top right, click More.
 2. Click More Tools.
 3. Click Create shortcut.
 4. Name it Mario.exe
